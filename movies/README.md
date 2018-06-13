@@ -2,7 +2,7 @@
 
 A part of the Full Stack Web Developer Nanodegree Program
 
-## Getting Started
+## Description
 
 I use Python to make the HTML for a movie website included movies' trailers. 
 
